@@ -6,6 +6,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=olivermclane&style=flat-square&color=blue&text-align=center" alt=""/>
 
+### Hey there friend 👋
 ---
 
 ### 👨‍💻 About Me:
