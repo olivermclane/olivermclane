@@ -12,8 +12,9 @@
 ### 👨‍💻 About Me:
 I am a Full Stack Developer from Salt Lake City, Utah.
 
-- 🔭 I’m currently working on completing my degree in Computer Science developing backend of applications.
-- 🌱 I’m currently learning Elastic Kubenetes Service.
+- 🔭 I’m currently working on completing my degree in Computer Science at Carroll College.
+- 🌱 I’m currently learning Node.js
+- ♻️ Improving my JavaScript
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-olivermclane-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-mclane-08304a202/)
 
 ---
